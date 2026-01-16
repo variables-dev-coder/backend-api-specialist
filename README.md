@@ -85,9 +85,16 @@ Each day includes:
 
 - [x] Day 01 – What HTTP Really Is  
 - [x] Day 02 – HTTP Request Anatomy  
-- [ ] Day 03 – HTTP Response Anatomy  
-- [ ] Day 04 – HTTP Methods & Idempotency  
-- [ ] Day 05 – HTTP Status Codes (Real Meaning)  
+- [x] Day 03 – HTTP Response Anatomy  
+- [x] Day 04 – HTTP Methods (Surface vs Reality)  
+- [x] Day 05 – Idempotency (Most Devs Don’t Know This)  
+- [x] Day 06 – HTTP Status Codes (Deep)
+- [x] Day 07 – HTTP Error Philosophy 
+- [x] Day 08 – Headers Deep Dive
+- [x] Day 09 – HTTP Caching Basics 
+- [x] Day 10 – HTTP vs HTTPS 
+- [x] Day 11 – Content Negotiation 
+- [x] Day 12 – Pagination & Filtering (HTTP POV)
 
 
 ---
